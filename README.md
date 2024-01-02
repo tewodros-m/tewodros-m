@@ -1,4 +1,4 @@
-<img alt="banner" align="center"  width="80%" height="300px" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif">
+<!--<img alt="banner" align="center"  width="80%" height="300px" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif"> -->
 <h1 align="center">Hi 👋, I'm Fentahun Mengie</h1>
 <h3 align="center">A passionate software developer from Ethiopia</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
