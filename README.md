@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying **software engineering at Bahir Dar University**
 
-- 🌱 I’m currently learning **Vue**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **java, javascript**
 
