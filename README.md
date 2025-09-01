@@ -1,28 +1,35 @@
 <!--<img alt="banner" align="center"  width="80%" height="300px" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif"> -->
-<h1 align="center">Hi 👋, I'm Fentahun Mengie</h1>
-<h3 align="center">A passionate software developer from Ethiopia</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<h1 align="center">Hi 👋, I'm Tewodros</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tewodros-m&label=Profile%20views&color=0e75b6&style=flat" alt="tewodros-m" /> </p>
+<h2 align="center">Software Developer</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fentahunm&label=Profile%20views&color=0e75b6&style=flat" alt="fentahunm" /> </p>
+## 📫 Connect with Me
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tewodrosmengie@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tewodros-m-688aa9371)
+<!--[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com) -->
 
-- 🔭 I’m currently studying **software engineering at Bahir Dar University**
-
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **java, javascript**
-
-- 📫 How to reach me **fantahun360@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+## 🛠️ Languages and Tools
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css,react,nextjs,redux,tailwind,nodejs,express,mongodb,mysql,postgresql,django,docker,git,github,linux,vscode" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<table>
+  <tr>
+    <td>
+      <img height="170" src="https://github-readme-stats.vercel.app/api?username=tewodros-m&show_icons=true&theme=tokyonight&hide_border=true" />
+    </td>
+    <td>
+      <img height="170" src="https://streak-stats.demolab.com?user=tewodros-m&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img height="170" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tewodros-m&theme=tokyonight" />
+    </td>
+    <td>
+      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=tewodros-m&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=350" />
+    </td>
+  </tr>
+</table>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fentahunm&show_icons=true&locale=en&layout=compact" alt="fentahunm" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fentahunm&show_icons=true&locale=en" alt="fentahunm" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fentahunm&" alt="fentahunm" /></p>
