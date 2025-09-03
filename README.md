@@ -1,14 +1,13 @@
 <!--<img alt="banner" align="center"  width="80%" height="300px" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif"> -->
-<h1 align="center">Hi 👋, I'm Tewodros</h1>
+<h1 align="center">Hi 👋, I'm Tewodros - Software Developer</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tewodros-m&label=Profile%20views&color=0e75b6&style=flat" alt="tewodros-m" /> </p>
-<h2 align="center">Software Developer</h2>
 
-## 📫 Connect with Me
+## Contact me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tewodrosmengie@email.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tewodros-m-688aa9371)
 <!--[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com) -->
 
-## 🛠️ Languages and Tools
+## Languages and Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css,react,nextjs,redux,tailwind,nodejs,express,mongodb,mysql,postgresql,django,docker,git,github,linux,vscode" />
 </p>
